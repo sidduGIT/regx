@@ -1,0 +1,20 @@
+siddu bagewadi
+#vijaynagar
+phone: 	123-456-7891, 
+	345.123.9856,
+	9880678155, 
+	345*123*9856
+	800-456-7891
+	
+
+atharv bagewadi
+#rajajinagar
+phone = 456-123-9783
+	678.435.1298
+	9886342576
+	678*435*1298
+	900-123-9783
+cat
+mat
+pat
+bat
